@@ -1,6 +1,6 @@
 # Decor_Github
 # 💫 About Me:
-Hi 👋🏻, I'm Pradip Panjiayr<br><br>I am web Developer !<br><br>Always learning new thing
+Hi 👋🏻, I'm Pradip Kumar Panjiyar<br><br>I am web Developer !<br><br>Always learning new thing
 
 
 ## 🌐 Socials:
